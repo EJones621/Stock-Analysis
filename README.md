@@ -14,5 +14,8 @@ DQ had the biggest flip from highest to lowest.
 
 ##### What do the column headers mean?
 Ticker: This indicates an abbreviation of the company name.
+
 Total Daily Volume: The sum of the number of shares for trading days on the market.
+
 Return: This indicates the Year over Year (YoY) which measures how the stock has performed over the course of the year. This can be found by: (last price / first price) - 1.
+
