@@ -19,3 +19,11 @@ Total Daily Volume: The sum of the number of shares for trading days on the mark
 
 Return: This indicates the Year over Year (YoY) which measures how the stock has performed over the course of the year. This can be found by: (last price / first price) - 1.
 
+
+## Speed of 2017 vs Speed of 2018
+
+![2017 Speed](https://github.com/EJones621/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
+
+![2018 Speed](https://github.com/EJones621/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
