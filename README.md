@@ -5,7 +5,7 @@ During this analysis there were 12 green stocks analyzed for years 2017 & 2018. 
 Here is an image based on how 2017 and 2018 did:
 
 
-![2017 & 2018 Data](https://github.com/EJones621/stock-analysis/blob/main/Resources/2017%20%26%202018%20Data.png)
+![2017 & 2018 Data](https://github.com/EJones621/stock-analysis/blob/main/Resources/2017%262018_Data.png)
 
 
 As we can see, 2017 did much better than 2018 did.
@@ -24,34 +24,25 @@ Return: This indicates the Year over Year (YoY) which measures how the stock has
 Let's take a look at the original VBA Script and see how quickly the data was able to run.
 *This is done by clicking on the button "Run Analysis for All" on the "All Stocks Analysis" Worksheet*
 
+![2017 Speed](https://github.com/EJones621/stock-analysis/blob/main/Resources/2017%20Speed%20Before%20Challenge.png)
+
+
+
+![2018 Speed](https://github.com/EJones621/stock-analysis/blob/main/Resources/2018%20Speed%20Before%20Challenge.png)
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Speed of 2017 vs Speed of 2018
-
+## Speed of 2017 vs Speed of 2018 with NEW VBA Script
+After updating the VBA Script to run quicker and more efficiently:
 
 ![2017 Speed](https://github.com/EJones621/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 
 
 ![2018 Speed](https://github.com/EJones621/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
 
 
 
