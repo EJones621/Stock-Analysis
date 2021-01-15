@@ -53,8 +53,10 @@ Just to put this into an easily read table:
 
 ##### Original VBA Script
 **Pros**: Efficient and quick
+
 **Cons**: May not be able to handle a larger dataset and if it could then it would be slower.
 
 ##### Refactored VBA Script
 **Pros**: More efficient and quicker than the original.  Can handle large datasets no problem.
+
 **Cons**: Coding may be too complex for smaller datasets.
