@@ -46,3 +46,5 @@ After updating the VBA Script to run quicker and more efficiently:
 
 
 
+## Summary Statement
+The advantages and disadvantages of the refactored may not be so clear with the difference between the old and new script being about one second. Both scripts do run quickly and efficiently, but the refactored one obviously runs just a little bit more quickly and efficiently. The old VBA Script may not run as smoothly if the dataset were bigger, while the refactored one wouldn't have issues.  The old VBA Script is a lot easier to create than the refactored, so if the dataset is small, I don't think it's necessary to run such complex coding, because it can get crazy.
